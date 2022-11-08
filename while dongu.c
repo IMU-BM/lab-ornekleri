@@ -9,7 +9,7 @@ int main()
 	
 	while ( i < 10 )
 	{
-		printf(" %d -GALATASARAY\n",i);
+		printf(" %d -FENERBAHCE\n",i);
 		
 		
 		
