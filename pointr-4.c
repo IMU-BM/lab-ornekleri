@@ -8,7 +8,7 @@
  	ptr=arr;
  	
  	printf("%d",ptr+1);
- 	//6487552
+ 	//// dönüş tipi int olduğundan her bir artışta bellekten 4 baytlık artış olur.
  	return 0;
  }
  
